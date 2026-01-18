@@ -1,19 +1,21 @@
-# Paper Publication Title
+# Research Publications
 
-## 📌 Overview
-Brief summary of your research paper and its key findings.
+This repository contains my peer-reviewed academic publications in the field of Mechanical and Thermal Engineering.
 
-## 🧾 Paper
-- **PDF:** [paper.pdf](paper.pdf)
+## Publications
 
-## 📌 Key Contributions
-- Contribution 1
-- Contribution 2
-- Contribution 3
+### 1. Gradient Tree Shaped Fins for Heat Storage Systems
+- Journal: IJMTST
+- Year: 2024
+- DOI: https://doi.org/10.46501/IJMTST1005004
+- Folder: Gradient_Tree_Shaped_Fins
 
-## 📌 Tools Used
-- Software / Tools used in the research
+### 2. Design and Static Analysis of Pressure Vessel
+- Journal: IJSREM
+- Year: 2024
+- DOI: https://doi.org/10.55041/IJSREM32962
+- Folder: Pressure_Vessel_Analysis
 
-## 📌 Published In
-- Name of journal / conference (if any)
-
+## Author
+A. Nithin Varma
+Department of Mechanical Engineering, NS Raju Institute of Technology(A)
